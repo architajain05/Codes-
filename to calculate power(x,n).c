@@ -11,4 +11,4 @@ int main(){
 }
   printf("\n pow(%d, %d)=%d",num,n, result);
 	return 0;
-}*/
+}
